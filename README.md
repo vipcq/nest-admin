@@ -1,3 +1,0 @@
-# nest-admin
-
-nest-admin
